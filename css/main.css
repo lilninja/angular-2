@@ -1,0 +1,32 @@
+body {
+	background-color: #FAFAFA;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+.scorecard {
+	background-color: #424242;
+	margin-bottom: 10px;
+	box-shadow: 0px 2px 7px #000;
+	text-align: center;
+	color: #BDBDBD;
+
+}
+
+.visitor-score, .home-score {
+	color: #80DEEA;
+	font-size: 60px;
+}
+
+.visitor-city, .home-city {
+	color: #BDBDBD;
+	font-size: 14px;
+}
+
+.visitor-name, .home-name {
+	color: #eee;
+}
+
+.tournament {
+	font-size: 14px;
+	font-weight: bold;
+}

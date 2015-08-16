@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "datetime": 1420848000000,
+      "visitor_team": {
+        "city": "Moskow",
+        "name": "Dinamo"
+      },
+      "home_team": {
+        "city": "Moskow",
+        "name": "CSKA"
+      },
+      "tournament": "Russian Premier League",
+      "visitor_score": 1,
+      "home_score": 0
+    },
+    {
+      "id": 2,
+      "datetime": 1420848000000,
+      "visitor_team": {
+        "city": "London",
+        "name": "Chelsea"
+      },
+      "home_team": {
+        "city": "Manchester",
+        "name": "Manchester City"
+      },
+      "tournament": "Barclays Premier League",
+      "visitor_score": 0,
+      "home_score": 0
+    },
+    {
+      "id": 3,
+      "datetime": 1420848000000,
+      "visitor_team": {
+        "city": "Saint-Petersburg",
+        "name": "Zenith"
+      },
+      "home_team": {
+        "city": "Moskow",
+        "name": "Spartak"
+      },
+      "tournament": "Russian Premier League",
+      "visitor_score": 3,
+      "home_score": 2
+    },
+    {
+      "id": 4,
+      "datetime": 1420848000000,
+      "visitor_team": {
+        "city": "Kazan'",
+        "name": "Rubin"
+      },
+      "home_team": {
+        "city": "Rostov-na-Donu",
+        "name": "Rostov"
+      },
+      "tournament": "Russian Premier League",
+      "visitor_score": 0,
+      "home_score": 0
+    },
+    {
+      "id": 5,
+      "datetime": 1420848000000,
+      "visitor_team": {
+        "city": "Krasnodar",
+        "name": "Kuban"
+      },
+      "home_team": {
+        "city": "Moskov",
+        "name": "Lokomotiv"
+      },
+      "tournament": "Russian Premier League",
+      "visitor_score": 2,
+      "home_score": 2
+    },
+    {
+      "id": 6,
+      "datetime": 1420848000000,
+      "visitor_team": {
+        "city": "Kaspiysk",
+        "name": "Anzhi"
+      },
+      "home_team": {
+        "city": "Perm'",
+        "name": "Amkar"
+      },
+      "tournament": "Russian Premier League",
+      "visitor_score": 1,
+      "home_score": 1
+    }    
+  ]  

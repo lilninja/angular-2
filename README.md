@@ -1,1 +1,1 @@
-# angular-2
+http://lilninja.github.io/angular-scores/#/
